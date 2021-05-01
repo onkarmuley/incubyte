@@ -1,0 +1,13 @@
+Prerequisite:
+Java JDK 1.7 or higher 
+MySQL
+Update connection string at establish_Connection
+
+
+How to run program:
+Copy attached data file to Desktop or at any location
+In method readFile_prepareStageTable() update path for file
+Open Command Prompt and go to directory where program is saved.
+Execute below commands:
+javac incubyte.java
+java incubyte
