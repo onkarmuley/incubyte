@@ -12,6 +12,6 @@ Open Command Prompt and go to directory where program is saved.
 
 
 ```java
-### Execute below commands:
+**Execute below commands:**
 javac incubyte.java
 java incubyte
