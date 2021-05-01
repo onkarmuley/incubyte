@@ -10,8 +10,7 @@ Copy attached data file to Desktop or at any location
 In method readFile_prepareStageTable() update path for file
 Open Command Prompt and go to directory where program is saved.
 
-
-```java
 **Execute below commands:**
+```java
 javac incubyte.java
 java incubyte
