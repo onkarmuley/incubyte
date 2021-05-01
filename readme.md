@@ -1,8 +1,8 @@
 
 ## Prerequisite:
-Java JDK 1.7 or higher 
-MySQL
-Update connection string at establish_Connection. Create database 'mydatabase' at MySQL server.
+1. Java JDK 1.7 or higher 
+2. MySQL
+3. Update connection string at establish_Connection. Create database 'mydatabase' at MySQL server.
 
 
 ## How to run program:
