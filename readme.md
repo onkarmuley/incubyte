@@ -9,8 +9,9 @@ Update connection string at establish_Connection. Create database 'mydatabase' a
 Copy attached data file to Desktop or at any location
 In method readFile_prepareStageTable() update path for file
 Open Command Prompt and go to directory where program is saved.
-Execute below commands:
+
 
 ```java
+### Execute below commands:
 javac incubyte.java
 java incubyte
