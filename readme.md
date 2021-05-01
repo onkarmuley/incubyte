@@ -6,9 +6,9 @@
 
 
 ## How to run program:
-Copy attached data file to Desktop or at any location
-In method readFile_prepareStageTable() update path for file
-Open Command Prompt and go to directory where program is saved.
+1. Copy attached data file to Desktop or at any location
+2. In method readFile_prepareStageTable() update path for file
+3. Open Command Prompt and go to directory where program is saved.
 
 **Execute below commands:**
 ```java
