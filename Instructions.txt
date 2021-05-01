@@ -1,0 +1,9 @@
+Prerequisite:
+Java JDK 1.7 or higher 
+MySQL
+
+
+How to run program:
+Copy attached data file to Desktop or at any location
+In method readFile_prepareStageTable() update path for file
+Compile and Execute Program
